@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cyril-lemaire/array-map-filter.svg?branch=master)](https://travis-ci.org/cyril-lemaire/array-map-filter)
+
 # Exercices sur map et filter
 
 ## Installation
@@ -24,5 +26,4 @@
 ## HELP! J'ai cloné sans forker !
 
 * Pas de panique: tu peux maintenant forker le dépôt
-* Pour lier ton dépôt à ton fork, au lieu du dépôt initial, il faut éditer le fichier `.git/config`.
-* Dans ce fichier, sous la ligne `[remote "origin"]`, remplacer `bhubr` par ton pseudo GitHub dans l'URL `https://github.com/bhubr/array-map-filter`.
+* Pour lier ton dépôt à ton fork, change le dépôt distant pour celui de ton github avec la commande `git remote set-url origin TON_DOSSIER` (ton dossier devrait être `https://github.com/GITHUB_LOGIN/array-map-filter` en https, ou `git@github.com:GITHUB_LOGIN/array-map-filter.git` en SSH).
